@@ -241,7 +241,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: United States_None_vmess_104
+  name: None_None_vmess_104
   network: ws
   port: 2095
   server: russia.com
@@ -513,7 +513,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: United States_None_vmess_1026
+  name: None_None_vmess_1026
   network: ws
   port: 8080
   server: yh1.dtku41.xyz
@@ -526,7 +526,7 @@ proxies:
     path: 34c0bb5e-c120-432d-9c58-bd7d82c7397b-vm
 - alterId: 0
   cipher: auto
-  name: None_None_vmess_1027
+  name: United States_None_vmess_1027
   network: ws
   port: 8080
   server: yh2.dtku41.xyz
@@ -565,7 +565,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: None_None_vmess_1030
+  name: United States_None_vmess_1030
   network: ws
   port: 443
   server: hms082.gwdef.sbs
@@ -1006,7 +1006,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: United States_None_vmess_1069
+  name: None_None_vmess_1069
   network: ws
   port: 8080
   server: www.darkroom.lol
@@ -1049,7 +1049,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: None_None_vmess_1072
+  name: United States_None_vmess_1072
   network: ws
   port: 2086
   server: mizban.arzonhost.ir
@@ -1131,7 +1131,7 @@ proxies:
     path: /@forwardv2ray
 - alterId: 0
   cipher: auto
-  name: None_None_vmess_1078
+  name: United States_None_vmess_1078
   network: ws
   port: 8880
   server: server31.beheshtbaneh.com
@@ -1186,7 +1186,7 @@ proxies:
     path: /77848824
 - alterId: 0
   cipher: auto
-  name: None_None_vmess_1082
+  name: United States_None_vmess_1082
   network: ws
   port: 8880
   server: server32.beheshtbaneh.com
@@ -1211,7 +1211,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: None_None_vmess_1084
+  name: United States_None_vmess_1084
   network: ws
   port: 2086
   server: mizban.arzonhost.ir
@@ -1224,7 +1224,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: None_None_vmess_1085
+  name: United States_None_vmess_1085
   network: ws
   port: 443
   server: hms04.xmivideo.cfd
@@ -1300,7 +1300,7 @@ proxies:
   uuid: 2e504818-e2e2-4183-eb75-0d1175a947de
 - alterId: 0
   cipher: auto
-  name: None_None_vmess_1091
+  name: United States_None_vmess_1091
   network: ws
   port: 8880
   server: de01.iepl1.me
@@ -1666,7 +1666,7 @@ proxies:
   uuid: a29dab3d-a832-4b87-d4cf-2346925b45a9
 - alterId: 0
   cipher: auto
-  name: None_None_vmess_10121
+  name: United States_None_vmess_10121
   network: ws
   port: 443
   server: hms02opi.fxiaomi.sbs
@@ -1731,7 +1731,7 @@ proxies:
     path: /linkws
 - alterId: 0
   cipher: auto
-  name: None_None_vmess_10126
+  name: United States_None_vmess_10126
   network: ws
   port: '2095'
   server: onea.flha.ru
@@ -1758,7 +1758,7 @@ proxies:
     path: /link
 - alterId: 0
   cipher: auto
-  name: United States_None_vmess_10128
+  name: None_None_vmess_10128
   network: ws
   port: 443
   server: martina.quest
@@ -2091,7 +2091,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: United States_None_vmess_10155
+  name: None_None_vmess_10155
   network: ws
   port: 8880
   server: cdn.vds-server.ir
@@ -2442,7 +2442,7 @@ proxies:
   uuid: 4242d74d-b748-4e74-a7c2-2bfb9d6ed121
 - alterId: 0
   cipher: auto
-  name: None_None_vmess_10185
+  name: Unknown_vmess_10185
   network: ws
   port: 2086
   server: admin.arzonhost.ir
@@ -3597,7 +3597,7 @@ proxies:
   country: US
   h2-opts: {}
   http-opts: {}
-  name: United States_None_vmess_1159
+  name: None_None_vmess_1159
   network: ws
   port: 8080
   server: yh3.dtku41.xyz
@@ -3666,7 +3666,7 @@ proxies:
   country: US
   h2-opts: {}
   http-opts: {}
-  name: United States_None_vmess_1163
+  name: Unknown_vmess_1163
   network: ws
   port: 2086
   server: admin.arzonhost.ir
@@ -3698,7 +3698,7 @@ proxies:
   country: US
   h2-opts: {}
   http-opts: {}
-  name: United States_None_vmess_1165
+  name: None_None_vmess_1165
   network: ws
   port: 2086
   server: mizban.arzonhost.ir
@@ -3732,7 +3732,7 @@ proxies:
   country: US
   h2-opts: {}
   http-opts: {}
-  name: United States_None_vmess_1167
+  name: None_None_vmess_1167
   network: ws
   port: 8880
   server: cdn.vds-server.ir
@@ -4103,7 +4103,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: None_None_vmess_11101
+  name: Unknown_vmess_11101
   network: ws
   port: 2086
   server: admin.arzonhost.ir
@@ -4255,7 +4255,7 @@ proxies:
     path: /zh-cn
 - alterId: 0
   cipher: auto
-  name: United States_None_vmess_11113
+  name: None_None_vmess_11113
   network: ws
   port: 2086
   server: mizban.arzonhost.ir
@@ -4318,7 +4318,7 @@ proxies:
     path: d9c5ec6a-a8d8-4732-8447-56fbd2f93e96-vm
 - alterId: 0
   cipher: auto
-  name: None_None_vmess_11118
+  name: United States_None_vmess_11118
   network: ws
   port: 80
   server: us219.netfilx.live
@@ -4331,7 +4331,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: United States_None_vmess_11119
+  name: None_None_vmess_11119
   network: ws
   port: 8080
   server: yh7.dtku41.xyz
@@ -4580,7 +4580,7 @@ proxy-groups:
   - None_None_vmess_101
   - Brazil_São Paulo_vmess_102
   - United States_None_vmess_103
-  - United States_None_vmess_104
+  - None_None_vmess_104
   - United States_None_vmess_105
   - None_None_vmess_106
   - None_None_vmess_107
@@ -4602,11 +4602,11 @@ proxy-groups:
   - None_None_vmess_1023
   - United States_None_vmess_1024
   - United States_None_vmess_1025
-  - United States_None_vmess_1026
-  - None_None_vmess_1027
+  - None_None_vmess_1026
+  - United States_None_vmess_1027
   - None_None_vmess_1028
   - United States_None_vmess_1029
-  - None_None_vmess_1030
+  - United States_None_vmess_1030
   - None_None_vmess_1031
   - China_None_vmess_1032
   - China_None_vmess_1033
@@ -4645,29 +4645,29 @@ proxy-groups:
   - None_None_vmess_1066
   - Iran_None_vmess_1067
   - None_None_vmess_1068
-  - United States_None_vmess_1069
+  - None_None_vmess_1069
   - None_None_vmess_1070
   - United States_None_vmess_1071
-  - None_None_vmess_1072
+  - United States_None_vmess_1072
   - None_None_vmess_1073
   - Luxembourg_None_vmess_1074
   - United States_Ashburn_vmess_1075
   - Luxembourg_None_vmess_1076
   - Luxembourg_None_vmess_1077
-  - None_None_vmess_1078
+  - United States_None_vmess_1078
   - China_None_vmess_1079
   - None_None_vmess_1080
   - United States_None_vmess_1081
-  - None_None_vmess_1082
+  - United States_None_vmess_1082
   - Singapore_Singapore_vmess_1083
-  - None_None_vmess_1084
-  - None_None_vmess_1085
+  - United States_None_vmess_1084
+  - United States_None_vmess_1085
   - None_None_vmess_1086
   - Japan_Osaka_vmess_1087
   - Singapore_Singapore_vmess_1088
   - United States_None_vmess_1089
   - United States_Los Angeles_vmess_1090
-  - None_None_vmess_1091
+  - United States_None_vmess_1091
   - United States_Dallas_vmess_1092
   - United States_Piscataway_vmess_1093
   - Germany_None_vmess_1094
@@ -4697,14 +4697,14 @@ proxy-groups:
   - Finland_Helsinki_vmess_10118
   - Czechia_České Budějovice_vmess_10119
   - United States_Los Angeles_vmess_10120
-  - None_None_vmess_10121
+  - United States_None_vmess_10121
   - The Netherlands_Amsterdam_vmess_10122
   - None_None_vmess_10123
   - The Netherlands_Amsterdam_vmess_10124
   - United States_None_vmess_10125
-  - None_None_vmess_10126
+  - United States_None_vmess_10126
   - None_None_vmess_10127
-  - United States_None_vmess_10128
+  - None_None_vmess_10128
   - United States_Piscataway_vmess_10129
   - France_Paris_vmess_10130
   - None_None_vmess_10131
@@ -4731,7 +4731,7 @@ proxy-groups:
   - Germany_Frankfurt am Main_vmess_10152
   - United States_Phoenix_vmess_10153
   - None_None_vmess_10154
-  - United States_None_vmess_10155
+  - None_None_vmess_10155
   - None_None_vmess_10156
   - None_None_vmess_10157
   - United States_Elk Grove Village_vmess_10158
@@ -4761,7 +4761,7 @@ proxy-groups:
   - France_None_vmess_10182
   - The Netherlands_Amsterdam_vmess_10183
   - United States_Miami_vmess_10184
-  - None_None_vmess_10185
+  - Unknown_vmess_10185
   - None_None_vmess_10186
   - None_None_vmess_10187
   - Canada_Toronto_vmess_10188
@@ -4877,15 +4877,15 @@ proxy-groups:
   - United States_Boardman_ss_1156
   - United States_None_vmess_1157
   - United States_None_vmess_1158
-  - United States_None_vmess_1159
+  - None_None_vmess_1159
   - United States_None_vmess_1160
   - United States_None_vmess_1161
   - United States_None_vmess_1162
-  - United States_None_vmess_1163
+  - Unknown_vmess_1163
   - United States_Ashburn_vmess_1164
-  - United States_None_vmess_1165
+  - None_None_vmess_1165
   - United States_None_vmess_1166
-  - United States_None_vmess_1167
+  - None_None_vmess_1167
   - United States_None_vmess_1168
   - United States_Columbus_trojan_1169
   - United States_Boardman_trojan_1170
@@ -4919,7 +4919,7 @@ proxy-groups:
   - Hong Kong_Hong Kong_vmess_1198
   - Hong Kong_Hong Kong_vmess_1199
   - United Kingdom_None_vmess_11100
-  - None_None_vmess_11101
+  - Unknown_vmess_11101
   - United States_None_vmess_11102
   - None_None_vmess_11103
   - None_None_vmess_11104
@@ -4931,13 +4931,13 @@ proxy-groups:
   - None_None_vmess_11110
   - None_None_vmess_11111
   - China_Shanghai_vmess_11112
-  - United States_None_vmess_11113
+  - None_None_vmess_11113
   - China_Shanghai_vmess_11114
   - None_None_vmess_11115
   - Germany_Frankfurt am Main_vmess_11116
   - None_None_vmess_11117
-  - None_None_vmess_11118
-  - United States_None_vmess_11119
+  - United States_None_vmess_11118
+  - None_None_vmess_11119
   - None_None_vmess_11120
   - None_None_vmess_11121
   - United States_None_vmess_131
@@ -4975,7 +4975,7 @@ proxy-groups:
   - None_None_vmess_101
   - Brazil_São Paulo_vmess_102
   - United States_None_vmess_103
-  - United States_None_vmess_104
+  - None_None_vmess_104
   - United States_None_vmess_105
   - None_None_vmess_106
   - None_None_vmess_107
@@ -4997,11 +4997,11 @@ proxy-groups:
   - None_None_vmess_1023
   - United States_None_vmess_1024
   - United States_None_vmess_1025
-  - United States_None_vmess_1026
-  - None_None_vmess_1027
+  - None_None_vmess_1026
+  - United States_None_vmess_1027
   - None_None_vmess_1028
   - United States_None_vmess_1029
-  - None_None_vmess_1030
+  - United States_None_vmess_1030
   - None_None_vmess_1031
   - China_None_vmess_1032
   - China_None_vmess_1033
@@ -5040,29 +5040,29 @@ proxy-groups:
   - None_None_vmess_1066
   - Iran_None_vmess_1067
   - None_None_vmess_1068
-  - United States_None_vmess_1069
+  - None_None_vmess_1069
   - None_None_vmess_1070
   - United States_None_vmess_1071
-  - None_None_vmess_1072
+  - United States_None_vmess_1072
   - None_None_vmess_1073
   - Luxembourg_None_vmess_1074
   - United States_Ashburn_vmess_1075
   - Luxembourg_None_vmess_1076
   - Luxembourg_None_vmess_1077
-  - None_None_vmess_1078
+  - United States_None_vmess_1078
   - China_None_vmess_1079
   - None_None_vmess_1080
   - United States_None_vmess_1081
-  - None_None_vmess_1082
+  - United States_None_vmess_1082
   - Singapore_Singapore_vmess_1083
-  - None_None_vmess_1084
-  - None_None_vmess_1085
+  - United States_None_vmess_1084
+  - United States_None_vmess_1085
   - None_None_vmess_1086
   - Japan_Osaka_vmess_1087
   - Singapore_Singapore_vmess_1088
   - United States_None_vmess_1089
   - United States_Los Angeles_vmess_1090
-  - None_None_vmess_1091
+  - United States_None_vmess_1091
   - United States_Dallas_vmess_1092
   - United States_Piscataway_vmess_1093
   - Germany_None_vmess_1094
@@ -5092,14 +5092,14 @@ proxy-groups:
   - Finland_Helsinki_vmess_10118
   - Czechia_České Budějovice_vmess_10119
   - United States_Los Angeles_vmess_10120
-  - None_None_vmess_10121
+  - United States_None_vmess_10121
   - The Netherlands_Amsterdam_vmess_10122
   - None_None_vmess_10123
   - The Netherlands_Amsterdam_vmess_10124
   - United States_None_vmess_10125
-  - None_None_vmess_10126
+  - United States_None_vmess_10126
   - None_None_vmess_10127
-  - United States_None_vmess_10128
+  - None_None_vmess_10128
   - United States_Piscataway_vmess_10129
   - France_Paris_vmess_10130
   - None_None_vmess_10131
@@ -5126,7 +5126,7 @@ proxy-groups:
   - Germany_Frankfurt am Main_vmess_10152
   - United States_Phoenix_vmess_10153
   - None_None_vmess_10154
-  - United States_None_vmess_10155
+  - None_None_vmess_10155
   - None_None_vmess_10156
   - None_None_vmess_10157
   - United States_Elk Grove Village_vmess_10158
@@ -5156,7 +5156,7 @@ proxy-groups:
   - France_None_vmess_10182
   - The Netherlands_Amsterdam_vmess_10183
   - United States_Miami_vmess_10184
-  - None_None_vmess_10185
+  - Unknown_vmess_10185
   - None_None_vmess_10186
   - None_None_vmess_10187
   - Canada_Toronto_vmess_10188
@@ -5272,15 +5272,15 @@ proxy-groups:
   - United States_Boardman_ss_1156
   - United States_None_vmess_1157
   - United States_None_vmess_1158
-  - United States_None_vmess_1159
+  - None_None_vmess_1159
   - United States_None_vmess_1160
   - United States_None_vmess_1161
   - United States_None_vmess_1162
-  - United States_None_vmess_1163
+  - Unknown_vmess_1163
   - United States_Ashburn_vmess_1164
-  - United States_None_vmess_1165
+  - None_None_vmess_1165
   - United States_None_vmess_1166
-  - United States_None_vmess_1167
+  - None_None_vmess_1167
   - United States_None_vmess_1168
   - United States_Columbus_trojan_1169
   - United States_Boardman_trojan_1170
@@ -5314,7 +5314,7 @@ proxy-groups:
   - Hong Kong_Hong Kong_vmess_1198
   - Hong Kong_Hong Kong_vmess_1199
   - United Kingdom_None_vmess_11100
-  - None_None_vmess_11101
+  - Unknown_vmess_11101
   - United States_None_vmess_11102
   - None_None_vmess_11103
   - None_None_vmess_11104
@@ -5326,13 +5326,13 @@ proxy-groups:
   - None_None_vmess_11110
   - None_None_vmess_11111
   - China_Shanghai_vmess_11112
-  - United States_None_vmess_11113
+  - None_None_vmess_11113
   - China_Shanghai_vmess_11114
   - None_None_vmess_11115
   - Germany_Frankfurt am Main_vmess_11116
   - None_None_vmess_11117
-  - None_None_vmess_11118
-  - United States_None_vmess_11119
+  - United States_None_vmess_11118
+  - None_None_vmess_11119
   - None_None_vmess_11120
   - None_None_vmess_11121
   - United States_None_vmess_131
