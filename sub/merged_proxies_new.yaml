@@ -122,7 +122,7 @@ proxies:
   type: trojan
 - alterId: 2
   cipher: auto
-  name: Hong Kong_Central_vmess_1013
+  name: Hong Kong_Jordan_vmess_1013
   network: ws
   port: '80'
   server: 6f5bbcfb-t8v340-ta7sek-1thts.hkt.gotochinatown.net
@@ -355,7 +355,7 @@ proxies:
   skip-cert-verify: true
   sni: t.me%25252Fripaojiedian
   type: trojan
-- name: None_None_trojan_1120
+- name: United States_San Francisco_trojan_1120
   network: ws
   password: 056b39f5-ffb3-4145-8f75-2ffdeb53cb48
   port: 2087
@@ -563,7 +563,7 @@ proxies:
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - alterId: 2
   cipher: auto
-  name: Hong Kong_Central_vmess_1145
+  name: Hong Kong_Jordan_vmess_1145
   network: ws
   port: '80'
   server: 3f637c17-t94cg0-tcuz7t-1ta58.hkt.gotochinatown.net
@@ -689,7 +689,7 @@ proxies:
   type: trojan
 - alterId: 2
   cipher: auto
-  name: Hong Kong_Central_vmess_1160
+  name: Hong Kong_Jordan_vmess_1160
   network: ws
   port: '80'
   server: 6f5bbcfb-t8v340-ta7sek-1thts.hkt.gotochinatown.net
@@ -783,7 +783,7 @@ proxy-groups:
   - Japan_Tokyo_trojan_1010
   - Japan_Tokyo_trojan_1011
   - Poland_None_trojan_1012
-  - Hong Kong_Central_vmess_1013
+  - Hong Kong_Jordan_vmess_1013
   - China_None_vmess_1014
   - China_None_vmess_1015
   - Hong Kong_Central_vmess_1016
@@ -810,7 +810,7 @@ proxy-groups:
   - India_None_vmess_1117
   - Hong Kong_Tsim Sha Tsui_trojan_1118
   - Hong Kong_Tsim Sha Tsui_trojan_1119
-  - None_None_trojan_1120
+  - United States_San Francisco_trojan_1120
   - None_None_trojan_1121
   - Taiwan_Chiayi City_trojan_1122
   - Taiwan_Chiayi City_trojan_1123
@@ -835,7 +835,7 @@ proxy-groups:
   - United States_None_trojan_1142
   - China_None_vmess_1143
   - China_None_vmess_1144
-  - Hong Kong_Central_vmess_1145
+  - Hong Kong_Jordan_vmess_1145
   - China_None_vmess_1146
   - China_None_vmess_1147
   - United States_None_ss_1148
@@ -850,7 +850,7 @@ proxy-groups:
   - Japan_Tokyo_trojan_1157
   - Japan_Tokyo_trojan_1158
   - Poland_None_trojan_1159
-  - Hong Kong_Central_vmess_1160
+  - Hong Kong_Jordan_vmess_1160
   - China_None_vmess_1161
   - China_None_vmess_1162
   - Hong Kong_Central_vmess_1163
@@ -876,7 +876,7 @@ proxy-groups:
   - Japan_Tokyo_trojan_1010
   - Japan_Tokyo_trojan_1011
   - Poland_None_trojan_1012
-  - Hong Kong_Central_vmess_1013
+  - Hong Kong_Jordan_vmess_1013
   - China_None_vmess_1014
   - China_None_vmess_1015
   - Hong Kong_Central_vmess_1016
@@ -903,7 +903,7 @@ proxy-groups:
   - India_None_vmess_1117
   - Hong Kong_Tsim Sha Tsui_trojan_1118
   - Hong Kong_Tsim Sha Tsui_trojan_1119
-  - None_None_trojan_1120
+  - United States_San Francisco_trojan_1120
   - None_None_trojan_1121
   - Taiwan_Chiayi City_trojan_1122
   - Taiwan_Chiayi City_trojan_1123
@@ -928,7 +928,7 @@ proxy-groups:
   - United States_None_trojan_1142
   - China_None_vmess_1143
   - China_None_vmess_1144
-  - Hong Kong_Central_vmess_1145
+  - Hong Kong_Jordan_vmess_1145
   - China_None_vmess_1146
   - China_None_vmess_1147
   - United States_None_ss_1148
@@ -943,7 +943,7 @@ proxy-groups:
   - Japan_Tokyo_trojan_1157
   - Japan_Tokyo_trojan_1158
   - Poland_None_trojan_1159
-  - Hong Kong_Central_vmess_1160
+  - Hong Kong_Jordan_vmess_1160
   - China_None_vmess_1161
   - China_None_vmess_1162
   - Hong Kong_Central_vmess_1163
