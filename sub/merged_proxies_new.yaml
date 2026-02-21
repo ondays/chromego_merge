@@ -73,7 +73,7 @@ proxies:
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: Taiwan_Kaohsiung City_trojan_107
+- name: Taiwan_Taipei_trojan_107
   network: tcp
   password: 736cd94d-7b94-3e44-8106-3419f64eaf09
   port: 3462
@@ -339,7 +339,7 @@ proxies:
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - alpn:
   - http/1.1
-  name: None_None_trojan_1118
+  name: United States_None_trojan_1118
   network: ws
   password: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
   port: 443
@@ -386,7 +386,7 @@ proxies:
     headers:
       Host: nmki.1qq.ccwu.cc
     path: '%2Fy1moM5CyNvYMZlzsYHmsMrnO'
-- name: United States_None_trojan_1122
+- name: None_None_trojan_1122
   network: ws
   password: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
   port: 443
@@ -793,7 +793,7 @@ proxy-groups:
   - Japan_Tokyo_trojan_104
   - Hong Kong_None_trojan_105
   - Japan_Tokyo_trojan_106
-  - Taiwan_Kaohsiung City_trojan_107
+  - Taiwan_Taipei_trojan_107
   - Japan_Tokyo_trojan_108
   - Japan_Tokyo_trojan_109
   - Japan_Tokyo_trojan_1010
@@ -823,11 +823,11 @@ proxy-groups:
   - Taiwan_Chiayi City_trojan_1115
   - China_None_vmess_1116
   - China_None_vmess_1117
-  - None_None_trojan_1118
+  - United States_None_trojan_1118
   - None_None_trojan_1119
   - China_None_vmess_1120
   - United States_None_trojan_1121
-  - United States_None_trojan_1122
+  - None_None_trojan_1122
   - Taiwan_Chiayi City_trojan_1123
   - Taiwan_Chiayi City_trojan_1124
   - Taiwan_Chiayi City_trojan_1125
@@ -883,7 +883,7 @@ proxy-groups:
   - Japan_Tokyo_trojan_104
   - Hong Kong_None_trojan_105
   - Japan_Tokyo_trojan_106
-  - Taiwan_Kaohsiung City_trojan_107
+  - Taiwan_Taipei_trojan_107
   - Japan_Tokyo_trojan_108
   - Japan_Tokyo_trojan_109
   - Japan_Tokyo_trojan_1010
@@ -913,11 +913,11 @@ proxy-groups:
   - Taiwan_Chiayi City_trojan_1115
   - China_None_vmess_1116
   - China_None_vmess_1117
-  - None_None_trojan_1118
+  - United States_None_trojan_1118
   - None_None_trojan_1119
   - China_None_vmess_1120
   - United States_None_trojan_1121
-  - United States_None_trojan_1122
+  - None_None_trojan_1122
   - Taiwan_Chiayi City_trojan_1123
   - Taiwan_Chiayi City_trojan_1124
   - Taiwan_Chiayi City_trojan_1125
