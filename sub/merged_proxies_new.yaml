@@ -260,7 +260,7 @@ proxies:
   uuid: 88888888-8888-8888-8888-888888888888
 - alterId: 2
   cipher: auto
-  name: Indonesia_Jakarta_vmess_1111
+  name: United Kingdom_None_vmess_1111
   port: 30809
   server: v9.hdacd.com
   type: vmess
@@ -283,7 +283,7 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 2
   cipher: auto
-  name: United Kingdom_None_vmess_1114
+  name: Indonesia_Jakarta_vmess_1114
   port: 30806
   server: v6.hdacd.com
   type: vmess
@@ -445,7 +445,7 @@ proxies:
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - alterId: 2
   cipher: auto
-  name: United Kingdom_None_vmess_1131
+  name: Indonesia_Jakarta_vmess_1131
   port: 30804
   server: v4.hdacd.com
   type: vmess
@@ -656,10 +656,10 @@ proxy-groups:
   - Unknown_vmess_118
   - Unknown_vmess_119
   - Unknown_vmess_1110
-  - Indonesia_Jakarta_vmess_1111
+  - United Kingdom_None_vmess_1111
   - Hong Kong_Central_vmess_1112
   - China_None_vmess_1113
-  - United Kingdom_None_vmess_1114
+  - Indonesia_Jakarta_vmess_1114
   - Taiwan_None_vmess_1115
   - Taiwan_None_vmess_1116
   - United States_None_trojan_1117
@@ -676,7 +676,7 @@ proxy-groups:
   - Switzerland_Lupfig_trojan_1128
   - Gibraltar_None_trojan_1129
   - United Kingdom_None_vmess_1130
-  - United Kingdom_None_vmess_1131
+  - Indonesia_Jakarta_vmess_1131
   - United States_None_ss_1132
   - Poland_None_trojan_1133
   - Japan_Tokyo_trojan_1134
@@ -729,10 +729,10 @@ proxy-groups:
   - Unknown_vmess_118
   - Unknown_vmess_119
   - Unknown_vmess_1110
-  - Indonesia_Jakarta_vmess_1111
+  - United Kingdom_None_vmess_1111
   - Hong Kong_Central_vmess_1112
   - China_None_vmess_1113
-  - United Kingdom_None_vmess_1114
+  - Indonesia_Jakarta_vmess_1114
   - Taiwan_None_vmess_1115
   - Taiwan_None_vmess_1116
   - United States_None_trojan_1117
@@ -749,7 +749,7 @@ proxy-groups:
   - Switzerland_Lupfig_trojan_1128
   - Gibraltar_None_trojan_1129
   - United Kingdom_None_vmess_1130
-  - United Kingdom_None_vmess_1131
+  - Indonesia_Jakarta_vmess_1131
   - United States_None_ss_1132
   - Poland_None_trojan_1133
   - Japan_Tokyo_trojan_1134
