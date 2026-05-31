@@ -335,7 +335,7 @@ proxies:
   server: 82.198.246.37
   type: vmess
   uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-- name: None_None_trojan_1118
+- name: United States_None_trojan_1118
   network: ws
   password: 2bcfbfba-b446-4ad5-93ad-72af9e008f61
   port: 443
@@ -632,7 +632,7 @@ proxy-groups:
   - Italy_Milan_vmess_1115
   - United Kingdom_None_vmess_1116
   - United Kingdom_None_vmess_1117
-  - None_None_trojan_1118
+  - United States_None_trojan_1118
   - United States_None_trojan_1119
   - United States_None_trojan_1120
   - United States_None_trojan_1121
@@ -703,7 +703,7 @@ proxy-groups:
   - Italy_Milan_vmess_1115
   - United Kingdom_None_vmess_1116
   - United Kingdom_None_vmess_1117
-  - None_None_trojan_1118
+  - United States_None_trojan_1118
   - United States_None_trojan_1119
   - United States_None_trojan_1120
   - United States_None_trojan_1121
