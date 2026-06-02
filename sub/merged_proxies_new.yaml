@@ -460,7 +460,7 @@ proxies:
   sni: t.me%2Fripaojiedian
   type: trojan
   udp: true
-- name: Hong Kong_None_trojan_1131
+- name: United States_None_trojan_1131
   password: 4f4d1167-ef14-4304-9bce-0740472503ef
   port: 46424
   server: 90081bb25c.node.tro.cac.cab
@@ -612,7 +612,7 @@ proxy-groups:
   - The Netherlands_Amsterdam_trojan_1128
   - Poland_None_trojan_1129
   - Poland_None_trojan_1130
-  - Hong Kong_None_trojan_1131
+  - United States_None_trojan_1131
   - New Zealand_None_ss_1132
   - United States_Los Angeles_trojan_1133
   - United States_Los Angeles_trojan_1134
@@ -679,7 +679,7 @@ proxy-groups:
   - The Netherlands_Amsterdam_trojan_1128
   - Poland_None_trojan_1129
   - Poland_None_trojan_1130
-  - Hong Kong_None_trojan_1131
+  - United States_None_trojan_1131
   - New Zealand_None_ss_1132
   - United States_Los Angeles_trojan_1133
   - United States_Los Angeles_trojan_1134
