@@ -413,7 +413,7 @@ proxies:
       User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML,
         like Gecko) Chrome/51.0.2704.103 Safari/537.36
     path: /?ed=2048
-- name: None_None_trojan_1129
+- name: United States_San Francisco_trojan_1129
   network: ws
   password: 4c3164ee-abcf-4091-abea-d1cd4937a68d
   port: '443'
@@ -429,7 +429,7 @@ proxies:
     path: /
 - alterId: 2
   cipher: auto
-  name: Singapore_Singapore_vmess_1130
+  name: Indonesia_Jakarta_vmess_1130
   network: tcp
   port: 30845
   server: v45.hdacd.com
@@ -558,8 +558,8 @@ proxy-groups:
   - None_None_trojan_1126
   - Japan_Tokyo_trojan_1127
   - Malaysia_Kuala Lumpur_trojan_1128
-  - None_None_trojan_1129
-  - Singapore_Singapore_vmess_1130
+  - United States_San Francisco_trojan_1129
+  - Indonesia_Jakarta_vmess_1130
   - Japan_Tokyo_trojan_1131
   - Japan_Tokyo_trojan_1132
   - Hong Kong_None_trojan_1133
@@ -616,8 +616,8 @@ proxy-groups:
   - None_None_trojan_1126
   - Japan_Tokyo_trojan_1127
   - Malaysia_Kuala Lumpur_trojan_1128
-  - None_None_trojan_1129
-  - Singapore_Singapore_vmess_1130
+  - United States_San Francisco_trojan_1129
+  - Indonesia_Jakarta_vmess_1130
   - Japan_Tokyo_trojan_1131
   - Japan_Tokyo_trojan_1132
   - Hong Kong_None_trojan_1133
